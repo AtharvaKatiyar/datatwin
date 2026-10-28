@@ -124,7 +124,6 @@ datatwin/
 │   ├── experiments_comparison.csv     # Summary comparison
 │   └── EXPERIMENTS_SUMMARY.txt        # Quick reference
 │
-└── .kiro/specs/                       # Spec-driven development docs
 ```
 
 ## 🔬 Evaluation Metrics
